@@ -1,0 +1,31 @@
+topic_flag,frequency
+causal:causal inference,181
+survival:survival analysis,148
+forecasting:customer churn,133
+forecasting:churn prediction,115
+forecasting:customer lifetime,108
+causal:granger causality,92
+survival:cox proportional hazard,87
+forecasting:demand forecast,80
+forecasting:demand prediction,40
+survival:time-to-event,40
+survival:survival model,33
+forecasting:customer retention,25
+causal:counterfactual,24
+survival:cox regression,18
+causal:treatment effect,18
+survival:hazard function,16
+causal:causal model,15
+survival:kaplan-meier,15
+survival:censored data,13
+survival:survival function,11
+causal:causal analysis,9
+survival:deep survival,9
+EXCLUDE:patient,9
+causal:structural causal,8
+causal:causal machine learning,6
+causal:causal discovery,6
+survival:hazard model,5
+forecasting:sales forecast,5
+EXCLUDE:cancer,3
+EXCLUDE:clinical trial,2

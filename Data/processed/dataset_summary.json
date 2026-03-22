@@ -1,0 +1,71 @@
+{
+  "total_records": 1877,
+  "date_range": "2020 - 2026",
+  "sources": {
+    "CrossRef": 1232,
+    "arXiv": 332,
+    "PubMed": 313
+  },
+  "year_distribution": {
+    "2020": 161,
+    "2021": 194,
+    "2022": 213,
+    "2023": 253,
+    "2024": 459,
+    "2025": 542,
+    "2026": 55
+  },
+  "top_20_journals": {
+    "": 374,
+    "arXiv": 332,
+    "SSRN Electronic Journal": 20,
+    "CRAN: Contributed Packages": 19,
+    "Causal Inference": 19,
+    "PloS one": 14,
+    "Supervised Machine Learning in Wind Forecasting and Ramp Event Prediction": 13,
+    "Survival Analysis": 13,
+    "Causal Inference for Machine Learning Engineers": 11,
+    "Machine Learning for Causal Inference": 11,
+    "Lifetime Data Analysis": 11,
+    "International Journal of Science and Research (IJSR)": 10,
+    "Journal of Causal Inference": 10,
+    "Technological Forecasting and Social Change": 9,
+    "Forecasting": 9,
+    "Neural Regeneration Research": 8,
+    "Scientific reports": 7,
+    "International Journal of Research Publication and Reviews": 7,
+    "Frontiers in oncology": 6,
+    "Demand Forecasting for Executives and Professionals": 6
+  },
+  "top_10_publishers": {
+    "arXiv": 332,
+    "PubMed": 313,
+    "Elsevier BV": 151,
+    "IEEE": 83,
+    "Qeios Ltd": 68,
+    "Springer Science and Business Media LLC": 61,
+    "MDPI AG": 57,
+    "Chapman and Hall/CRC": 49,
+    "Wiley": 42,
+    "Springer International Publishing": 31
+  },
+  "publication_types": {
+    "journal-article": 765,
+    "preprint": 332,
+    "posted-content": 229,
+    "book-chapter": 219,
+    "proceedings-article": 137,
+    "peer-review": 115,
+    "dataset": 26,
+    "other": 21,
+    "report": 13,
+    "book": 9,
+    "monograph": 4,
+    "reference-entry": 3,
+    "edited-book": 2,
+    "": 1,
+    "reference-book": 1
+  },
+  "records_with_abstracts": 1012,
+  "records_without_abstracts": 865
+}

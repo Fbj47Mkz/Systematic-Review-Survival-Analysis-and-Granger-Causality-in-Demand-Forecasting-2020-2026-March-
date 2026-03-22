@@ -50,13 +50,11 @@ Structured identification, screening, and eligibility process
 6. VOSviewer & CiteSpace (scientometric visualization)
 
 # Repository Structure
-├── data/                # Raw and processed datasets (CSV, JSON, Excel)
-├── notebooks/           # Analysis notebooks (Python)
-├── figures/             # Generated figures and visualizations
-├── tables/              # Bibliometric and statistical tables
-├── scripts/             # Data collection and preprocessing scripts
-├── results/             # Final outputs and reports
-└── paper/               # Manuscript and supplementary materials
+├── Data/                  # Raw and processed datasets (CSV, JSON, Excel)
+├── Notebooks / Scripts    # Analysis notebooks (Python) / Data collection and preprocessing scripts
+├── Tables/                # Bibliometric and statistical tables
+├── Results & Figures/     # Final outputs and reports / Generated figures and visualizations
+└── Paper/                 # Manuscripts (Versions)  
 
 
 

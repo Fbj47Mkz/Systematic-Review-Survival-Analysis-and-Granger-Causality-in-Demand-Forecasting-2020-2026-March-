@@ -11,7 +11,7 @@ The ultimate goal of this project is to:
 - Contribute to a unified causal-event forecasting framework
 
 # Keywords
-Survival Analysis, Causal Inference, Granger Causality, Demand Forecasting, Customer Churn, Scientometrics, Topic Modeling, LDA.
+Survival analysis, causal inference, Granger causality, demand forecasting, customer churn, topic modeling, bibliometrics.
 
 # Key Contributions
 

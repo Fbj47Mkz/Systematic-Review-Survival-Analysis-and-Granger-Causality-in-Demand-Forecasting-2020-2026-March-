@@ -17,7 +17,7 @@ Survival analysis, causal inference, Granger causality, demand forecasting, cust
 
  1. Curated Dataset
 - 1,879 collected publications
-- 883 relevant papers (after filtering)
+- 612 relevant papers (after filtering)
 - Time span: 2020 – March 2026
 
 2. Systematic Review (PRISMA-based)
